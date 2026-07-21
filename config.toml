@@ -1,0 +1,63 @@
+baseURL = "https://khanhduylenguyen.github.io/aws-fcaj-workshop/"
+relativeURLs = false
+canonifyURLs = false
+defaultContentLanguage = "en" # Chuyển về "en" làm cấu trúc gốc để sửa lỗi nhận diện ngôn ngữ
+
+# Thay đổi theme mặc định khi build trang web với Hugo
+theme = "hugo-theme-learn"
+
+# Cấu hình cho tính năng tìm kiếm (Search)
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[params]
+  # Thay đổi bảng màu giao diện (Mặc định là variant "workshop" của AWS FCJ)
+  themeVariant = "workshop"
+  
+  # Link repo GitHub của riêng bạn để người xem bấm sửa bài viết nếu cần
+  editURL = "https://github.com/giahoai132-sudo/aws-fcaj-workshop-2026"
+  description = "Báo cáo thực tập và nhật ký tìm hiểu Cloud/AI trong chương trình AWS First Cloud AI Journey 2026."
+  author = "Trần Phan Gia Hoài" # Tên tác giả cá nhân
+  showVisitedLinks = true
+  disableBreadcrumb = false
+  disableNextPrev = false
+  
+[Languages]
+[Languages.vi]
+title = "Báo cáo Thực tập - Gia Hoài" # Bản tiếng Việt hiển thị trước nhờ weight = 1
+weight = 1
+label = "Tiếng Việt"
+
+[[Languages.vi.menu.shortcuts]]
+name = "<i class='fab fa-aws'></i> AWS Study Group - Blog"
+identifier = "AWS Study Group"
+url = "http://awsstudygroup.com"
+weight = 20
+
+[[Languages.vi.menu.shortcuts]]
+name = "<i class='fab fa-facebook'></i> AWS Study Group - Nhóm FB"
+identifier = "AWS Study Group FB"
+url = "https://www.facebook.com/groups/awsstudygroupfcj"
+weight = 20
+
+[Languages.en]
+title = "Gia Hoai - Internship Report" # Bản tiếng Anh hiển thị khi bấm chuyển đổi
+weight = 2
+label = "English"
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fab fa-aws'></i> AWS Study Group - Blog"
+identifier = "AWS Study Group"
+url = "https://awsstudygroup.com"
+weight = 20
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fab fa-facebook'></i> AWS Study Group - FB Group"
+identifier = "AWS Group FB"
+url = "https://www.facebook.com/groups/awsstudygroupfcj"
+weight = 20
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true # Cho phép sử dụng code HTML trực tiếp trong file Markdown (.md)
