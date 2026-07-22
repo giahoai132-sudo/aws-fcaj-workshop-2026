@@ -1,6 +1,6 @@
 ---
 title: "Week 9 Worklog"
-date: 2026-04-12
+date: 2026-06-07
 weight: 9
 chapter: false
 pre: " <b> 1.9. </b> "
@@ -15,11 +15,11 @@ pre: " <b> 1.9. </b> "
 
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
-| 1 | - Review IAM, EC2, VPC and Amazon S3.<br>- Summarize AWS security best practices. | 31/05/2026 | 31/05/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 2 | - Review Amazon RDS, Route 53 and networking services.<br>- Review deployment architecture. | 01/06/2026 | 01/06/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 3 | - Review Docker and Amazon ECS.<br>- Practice container deployment workflow. | 02/06/2026 | 02/06/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 4 | - Review Amazon CloudWatch.<br>- Review CI/CD concepts and deployment process. | 03/06/2026 | 03/06/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 5 | - Summarize AWS services required for the internship project.<br>- Prepare development environment for the project. | 04/06/2026 | 05/06/2026 | https://cloudjourney.awsstudygroup.com/ |
+| 1 | - Review IAM, EC2, VPC and Amazon S3.<br>- Summarize AWS security best practices. | 07/06/2026 | 07/06/2026 | https://cloudjourney.awsstudygroup.com/ |
+| 2 | - Review Amazon RDS, Route 53 and networking services.<br>- Review deployment architecture. | 08/06/2026 | 08/06/2026 | https://cloudjourney.awsstudygroup.com/ |
+| 3 | - Review Docker and Amazon ECS.<br>- Practice container deployment workflow. | 09/06/2026 | 09/06/2026 | https://cloudjourney.awsstudygroup.com/ |
+| 4 | - Review Amazon CloudWatch.<br>- Review CI/CD concepts and deployment process. | 10/06/2026 | 10/06/2026 | https://cloudjourney.awsstudygroup.com/ |
+| 5 | - Summarize AWS services required for the internship project.<br>- Prepare development environment for the project. | 11/06/2026 | 11/06/2026 | https://cloudjourney.awsstudygroup.com/ |
 
 ### Week 9 Achievements:
 

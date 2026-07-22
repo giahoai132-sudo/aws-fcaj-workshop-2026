@@ -1,6 +1,6 @@
 ---
 title: "Worklog"
-date: 2024-01-01
+date: 2026-04-12
 weight: 1
 chapter: false
 pre: " <b> 1. </b> "
@@ -17,26 +17,26 @@ The internship project, **TechMarket E-Commerce Platform**, was successfully dev
 
 The weekly worklog is organized as follows:
 
-**Week 1:** [AWS Fundamentals: IAM, EC2, VPC, Amazon S3 and AWS CLI](1.1-week1/)
+**Week 1:** [Getting Started with Core AWS Services](1.1-week1/)
 
-**Week 2:** [Amazon S3 Security, IAM Role, Amazon RDS and Web Application Deployment](1.2-week2/)
+**Week 2:** [AWS Security Management and Web Application Deployment](1.2-week2/)
 
-**Week 3:** [AWS Networking and Security](1.3-week3/)
+**Week 3:** [AWS Networking and Security Configuration](1.3-week3/)
 
-**Week 4:** [Scaling, Load Balancing and High Availability](1.4-week4/)
+**Week 4:** [Building Scalable and Highly Available Systems](1.4-week4/)
 
-**Week 5:** [Monitoring with Amazon CloudWatch](1.5-week5/)
+**Week 5:** [Monitoring and Observability with AWS](1.5-week5/)
 
-**Week 6:** [AWS Systems Manager and Resource Management](1.6-week6/)
+**Week 6:** [AWS Resource Management and Automation](1.6-week6/)
 
-**Week 7:** [Infrastructure as Code, Docker and Amazon ECS Fundamentals](1.7-week7/)
+**Week 7:** [Infrastructure Automation and Container Deployment](1.7-week7/)
 
-**Week 8:** [Amazon ECS Deployment and CI/CD Concepts](1.8-week8/)
+**Week 8:** [Containerized Application Deployment and CI/CD Pipelines](1.8-week8/)
 
-**Week 9:** [Review AWS Knowledge and Prepare for Internship Project](1.9-week9/)
+**Week 9:** [AWS Knowledge Review and Project Preparation](1.9-week9/)
 
-**Week 10:** [Project Planning and System Architecture Design](1.10-week10/)
+**Week 10:** [Requirements Analysis and System Architecture Design](1.10-week10/)
 
-**Week 11:** [Application Development and Feature Implementation](1.11-week11/)
+**Week 11:** [System Development and Feature Completion](1.11-week11/)
 
-**Week 12:** [AWS Deployment, Testing and Project Completion](1.12-week12/)
+**Week 12:** [AWS Deployment, Testing, and Project Completion](1.12-week12/)

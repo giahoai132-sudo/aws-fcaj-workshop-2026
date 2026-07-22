@@ -1,6 +1,6 @@
 ---
 title: "Week 12 Worklog"
-date: 2026-04-19
+date: 2026-06-28
 weight: 12
 chapter: false
 pre: " <b> 1.12. </b> "
@@ -15,11 +15,11 @@ pre: " <b> 1.12. </b> "
 
 | Day | Task | Start Date | Completion Date |
 | --- | ---- | ---------- | --------------- |
-| 2 | Containerize the application using Docker | 21/06/2026 | 21/06/2026 |
-| 3 | Push Docker Image to Amazon ECR | 22/06/2026 | 22/06/2026 |
-| 4 | Deploy the application to Amazon ECS Fargate | 23/06/2026 | 23/06/2026 |
-| 5 | Configure Application Load Balancer, Route 53 and ACM | 24/06/2026 | 24/06/2026 |
-| 6 | Configure AWS CodeBuild, monitor the system with CloudWatch, perform testing and complete the project | 25/06/2026 | 26/06/2026 |
+| 2 | Containerize the application using Docker | 28/06/2026 | 28/06/2026 |
+| 3 | Push Docker Image to Amazon ECR | 29/06/2026 | 29/06/2026 |
+| 4 | Deploy the application to Amazon ECS Fargate | 30/06/2026 | 30/06/2026 |
+| 5 | Configure Application Load Balancer, Route 53 and ACM | 01/07/2026 | 01/07/2026 |
+| 6 | Configure AWS CodeBuild, monitor the system with CloudWatch, perform testing and complete the project | 02/07/2026 | 02/07/2026 |
 
 ### Week 12 Achievements:
 
