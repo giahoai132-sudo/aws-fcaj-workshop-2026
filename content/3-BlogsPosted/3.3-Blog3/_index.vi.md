@@ -1,5 +1,5 @@
 ﻿---
-title: "Blog 3 - Giải bài toán đọc hợp đồng tự động với Doczy.ai™ trên AWS"
+title: "Blog 3"
 date: 2026-06-07
 weight: 3
 chapter: false
@@ -23,6 +23,8 @@ Chính vì vậy, công ty **AArete** đã xây dựng **Doczy.ai™** — một
 ## "Mổ xẻ" kiến trúc dưới góc nhìn thực tế
 
 Cách AArete lắp ghép các service AWS rất thực dụng và bài bản:
+
+![Doczy.ai Architecture - Frontend & AWS Services](/images/blog3.jpg)
 
 ```mermaid
 flowchart LR

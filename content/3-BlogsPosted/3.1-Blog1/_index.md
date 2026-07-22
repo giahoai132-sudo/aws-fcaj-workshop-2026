@@ -1,5 +1,5 @@
 ﻿---
-title: "Blog 1 - Automate AWS Storage Gateway AL2 to AL2023 migration with IaC"
+title: "Blog 1"
 date: 2026-04-12
 weight: 1
 chapter: false
@@ -15,6 +15,8 @@ pre: " <b> 3.1. </b> "
 So what's the right approach?
 
 ## Solution: Terraform + Ansible
+
+![AWS Storage Gateway Migration](/images/blog1.jpg)
 
 AWS proposes an **Infrastructure as Code (IaC)** pattern combining **Terraform** (provision infrastructure) and **Ansible** (configure & switch) to migrate gateways **while preserving data and configuration**:
 

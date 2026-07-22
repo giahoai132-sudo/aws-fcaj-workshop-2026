@@ -1,5 +1,5 @@
 ﻿---
-title: "Blog 2 - Tự động hóa số hóa bệnh án bằng Amazon Bedrock Data Automation và AWS HealthLake"
+title: "Blog 2"
 date: 2026-05-03
 weight: 2
 chapter: false
@@ -21,6 +21,8 @@ Giải pháp cho thách thức kỹ thuật này là **tự động chuyển đ�
 ## Tổng quan giải pháp
 
 Giải pháp sử dụng một **kiến trúc phi máy chủ (serverless)**, **hướng sự kiện (event-driven)** để tự động hóa toàn bộ hành trình từ việc tải lên tệp PDF cho đến khi tạo ra dữ liệu có thể truy vấn được.
+
+![Amazon Bedrock Data Automation + HealthLake](/images/blog2.jpg)
 
 ```mermaid
 flowchart LR

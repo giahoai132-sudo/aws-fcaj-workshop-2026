@@ -1,9 +1,8 @@
 ---
 title: "Báo cáo thực tập"
-date: 2024-01-01
+date: 2026-04-12
 weight: 1
 chapter: false
-avatar: "/images/AnhDaiDien.png"
 ---
 
 # Báo cáo thực tập
@@ -26,7 +25,7 @@ avatar: "/images/AnhDaiDien.png"
 
 &emsp; **Thời gian thực tập:** Từ ngày 12/04/2026 đến ngày 12/07/2026
 
-<img src="/aws-fcaj-workshop/images/AnhDaiDien.png" alt="Your profile picture" width="550" />
+![Ảnh đại diện của bạn](/images/avatar.png)
 
 
 ### Nội dung báo cáo
@@ -36,5 +35,4 @@ avatar: "/images/AnhDaiDien.png"
 3.  [Các bài blogs đã đăng](3-BlogsPosted/)
 4.  [Các events đã tham gia](4-EventParticipated/)
 5.  [Workshop](5-Workshop/)
-6.  [Tự đánh giá](6-Self-evaluation/)
 7.  [Chia sẻ, đóng góp ý kiến](7-Feedback/)

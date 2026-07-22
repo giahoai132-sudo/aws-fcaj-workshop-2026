@@ -1,5 +1,5 @@
 ﻿---
-title: "Blog 1 - Tự động hóa Migration AWS Storage Gateway từ AL2 sang AL2023 bằng IaC"
+title: "Blog 1"
 date: 2026-04-12
 weight: 1
 chapter: false
@@ -15,6 +15,8 @@ pre: " <b> 3.1. </b> "
 Vậy đâu là cách tiếp cận đúng?
 
 ## Giải pháp: Terraform + Ansible
+
+![AWS Storage Gateway Migration](/images/blog1.jpg)
 
 AWS đề xuất một pattern **Infrastructure as Code (IaC)** kết hợp **Terraform** (cấp phát hạ tầng) và **Ansible** (cấu hình & chuyển đổi) giúp di chuyển gateway **mà vẫn giữ nguyên dữ liệu và cấu hình**:
 

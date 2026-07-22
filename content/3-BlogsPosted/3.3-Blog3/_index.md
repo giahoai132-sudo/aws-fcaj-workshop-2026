@@ -1,5 +1,5 @@
 ﻿---
-title: "Blog 3 - Solving automated contract intelligence with Doczy.ai™ on AWS"
+title: "Blog 3"
 date: 2026-06-07
 weight: 3
 chapter: false
@@ -23,6 +23,8 @@ That's why **AArete** built **Doczy.ai™** — a **contract intelligence** plat
 ## Architecture deep-dive from a practical perspective
 
 AArete's stack of AWS services is pragmatic and well-engineered:
+
+![Doczy.ai Architecture - Frontend & AWS Services](/images/blog3.jpg)
 
 ```mermaid
 flowchart LR
